@@ -8,7 +8,7 @@
 
 ### **2. File Storage & Data Management**
 - **Do not upload large files** (e.g., datasets, trained models, raw logs) to GitHub.
-- Large files should be stored in the **GitHub Shared Folder** or an external storage service.
+- Large files should be stored in the [GitHub Shared Folder](https://drive.google.com/drive/folders/1Fq0L3_tNIJy9UmJiP3DK6lg4VjkvYFto?usp=sharing) or an external storage service.
 - Use **.gitignore** to exclude unnecessary files such as temporary logs, local configurations, and build artifacts.
 - If necessary, use **Git LFS (Large File Storage)** for versioning large files, but avoid excessive use.
 
