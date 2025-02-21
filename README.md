@@ -1,4 +1,4 @@
-**Rossi Laboratory GitHub Management Policy**
+# **Rossi Laboratory GitHub Management Policy**
 
 ### **1. General Guidelines**
 - All repositories should be properly documented with a **README.md** file.
