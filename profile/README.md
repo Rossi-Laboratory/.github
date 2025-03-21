@@ -1,50 +1,54 @@
-# 🧠 Rossi Lab @ NYCU – Where AI Gets Creative
+---
 
-Hi there! 👋  
-Welcome to the **Rossi Lab** at **National Yang Ming Chiao Tung University** (NYCU), Institute of Intelligent Systems. We’re a team of curious minds exploring how AI can **imagine, understand, and act** in the world — and sometimes even create worlds of its own.
+# 🧠 Rossi Lab @ NYCU  
+### *Robotic Science, Systems, and Intelligence*
+
+Welcome to the **Rossi Lab** at the **Institute of Intelligent Systems**, National Yang Ming Chiao Tung University (NYCU)!  
+We explore the frontiers of **Generative AI**, **3D Representation**, and **Robotic Intelligence** — combining science and creativity to build smarter machines and virtual worlds.
 
 ---
 
-## 🔍 What We’re Working On
+## 🔍 What We Do
 
 ### 1. 🎨 Generative AI (GenAI)
-We love making AI that can *create*.  
-- **Generative Digital Twins**: Virtual versions of the real world for simulation and optimization.  
-- **LLMs for Enterprise**: Putting large language models to work in real business settings.  
-- **Foundation Models**: Especially into diffusion models and DiT (Diffusion Transformers).
+Making AI that *creates* and *understands*:
+- **Generative Digital Twins**: Realistic virtual replicas for simulation and prediction.
+- **LLMs for Enterprise**: Applying large language models to real-world industrial use.
+- **Foundation Models**: We work with diffusion models and DiT (Diffusion Transformers) to push the limits of generative capabilities.
 
 ---
 
-### 2. 🧱 3D Magic (Representation & Reconstruction)
-Building the world in 3D — from photos, sensors, or pure imagination.  
-- **NeRF**: Turning 2D images into realistic 3D scenes.  
-- **3D Gaussian Splatting**: Super fast and pretty 3D rendering.  
-- **Procedural Generation**: Automatically generating rooms, objects, or whole worlds.
+### 2. 🧱 3D Representation & Reconstruction
+We bring the 3D world to life:
+- **NeRF (Neural Radiance Fields)**: Turning photos into immersive 3D scenes.
+- **3D Gaussian Splatting (3DGS)**: Real-time, photorealistic 3D rendering.
+- **Procedural Generation**: Automatically generating objects, scenes, and environments for AI training and simulation.
 
 ---
 
-### 3. 🤖 Robotic Intelligence
-We teach robots to *see*, *think*, and *do stuff*.  
-- **VLA (Vision-Language-Action)**: Robots that follow your instructions.  
-- **VLN (Vision-Language Navigation)**: Let’s guide a robot around with words.  
-- **Robot Vision & Planning**: Giving robots the brains to handle the real world.
+### 3. 🤖 Robotic AI
+Teaching robots to *see*, *think*, and *act*:
+- **Vision-Language-Action (VLA)**: Robots that understand commands and perform complex tasks.
+- **Vision-Language Navigation (VLN)**: Natural language-driven navigation in dynamic spaces.
+- **Robot Perception & Planning**: From sensing to decision-making in real-world scenarios.
 
 ---
 
-## 🚀 Come Say Hi!
+## 🚀 About Rossi Lab
+**Rossi** stands for **Robotic Science, Systems, and Intelligence** —  
+a name that reflects our passion for advancing intelligent systems across both virtual and physical domains.
 
-Whether you’re into AI, robotics, 3D, or all of the above — we’re always open to collaborations, fun conversations, and new ideas.
+We're building the future of intelligent machines that can understand language, navigate 3D environments, and work alongside humans.
 
-> 📫 Contact: [your.email@nycu.edu.tw]  
-> 🌐 Website: Coming soon!
+> *Creating the Future of Intelligent Machines.*
 
 ---
 
-## 📁 About This Repo
+## 🤝 Join Us
+We're always open to new ideas, collaborations, and enthusiastic researchers.  
+If you're excited about GenAI, robotics, or 3D — let's connect!
 
-This is our lab’s home on GitHub. You’ll find:
-- Code from our recent projects  
-- Demos and experiments  
-- Occasional deep thoughts (and probably TODOs)
+📫 **Contact**: [yfyangd@nycu.edu.tw]  
+🌐 **Website**: Coming soon!
 
-Stay tuned for updates, and feel free to open issues or reach out!
+---
