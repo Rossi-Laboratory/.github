@@ -49,6 +49,6 @@ We're always open to new ideas, collaborations, and enthusiastic researchers.
 If you're excited about GenAI, robotics, or 3D — let's connect!
 
 📫 **Contact**: [yfyangd@nycu.edu.tw]  
-🌐 **Website**: [https://rossi-lab.vercel.app/]
+🌐 **Website**: [https://rossilab.vercel.app/]
 
 ---
